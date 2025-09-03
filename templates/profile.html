@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}LockIn - Profile{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h2 class="text-center mb-0">Profile</h2>
+            </div>
+            <div class="card-body">
+                <div class="text-center">
+                    <h3>Hi, {{ current_user.username }}!</h3>
+                    <p class="text-muted">Email: {{ current_user.email }}</p>
+                    <p class="text-muted">Account created: {{ current_user.created_at.strftime('%Y-%m-%d %H:%M:%S UTC') }}</p>
+                    <p class="text-muted">Role: {{ current_user.role }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

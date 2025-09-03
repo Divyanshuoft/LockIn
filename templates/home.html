@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}LockIn - Home{% endblock %}
+
+{% block content %}
+<div class="text-center">
+    <h1 class="display-4 mb-4">Welcome to LockIn</h1>
+    <p class="lead">A secure authentication system built with Flask</p>
+    
+    {% if current_user.is_authenticated %}
+    <p class="mt-4">
+        <a href="{{ url_for('profile') }}" class="btn btn-primary">Go to Profile</a>
+    </p>
+    {% else %}
+    <div class="mt-4">
+        <a href="{{ url_for('login') }}" class="btn btn-primary me-2">Login</a>
+        <a href="{{ url_for('signup') }}" class="btn btn-outline-primary">Sign Up</a>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
