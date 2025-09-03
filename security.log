@@ -30,3 +30,43 @@
 2025-09-02 20:36:16,811 - INFO -  * Restarting with stat
 2025-09-02 20:36:17,175 - WARNING -  * Debugger is active!
 2025-09-02 20:36:17,186 - INFO -  * Debugger PIN: 114-261-323
+2025-09-02 20:41:54,799 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-02 20:41:54,800 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-02 20:41:54,800 - INFO -  * Restarting with stat
+2025-09-02 20:41:55,163 - WARNING -  * Debugger is active!
+2025-09-02 20:41:55,177 - INFO -  * Debugger PIN: 114-261-323
+2025-09-02 20:45:10,746 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-02 20:45:10,746 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-02 20:45:10,747 - INFO -  * Restarting with stat
+2025-09-02 20:45:11,111 - WARNING -  * Debugger is active!
+2025-09-02 20:45:11,122 - INFO -  * Debugger PIN: 114-261-323
+2025-09-02 20:46:48,020 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-02 20:46:48,020 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-02 20:46:48,021 - INFO -  * Restarting with stat
+2025-09-02 20:46:48,386 - WARNING -  * Debugger is active!
+2025-09-02 20:46:48,396 - INFO -  * Debugger PIN: 114-261-323
+2025-09-02 20:50:15,951 - INFO -  * Detected change in '/Users/divyanshkachchhava/LockIn/app.py', reloading
+2025-09-02 20:50:16,015 - INFO -  * Restarting with stat
+2025-09-02 20:50:16,577 - WARNING -  * Debugger is active!
+2025-09-02 20:50:16,588 - INFO -  * Debugger PIN: 114-261-323
+2025-09-02 20:50:26,466 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-02 20:50:26,466 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-02 20:50:26,466 - INFO -  * Restarting with stat
+2025-09-02 20:50:26,821 - WARNING -  * Debugger is active!
+2025-09-02 20:50:26,832 - INFO -  * Debugger PIN: 114-261-323
+2025-09-02 20:51:02,274 - INFO -  * Detected change in '/Users/divyanshkachchhava/LockIn/app.py', reloading
+2025-09-02 20:51:02,334 - INFO -  * Restarting with stat
+2025-09-02 20:51:02,883 - WARNING -  * Debugger is active!
+2025-09-02 20:51:02,892 - INFO -  * Debugger PIN: 114-261-323
+2025-09-02 20:51:11,953 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-02 20:51:11,953 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-02 20:51:11,954 - INFO -  * Restarting with stat
+2025-09-02 20:51:12,308 - WARNING -  * Debugger is active!
+2025-09-02 20:51:12,317 - INFO -  * Debugger PIN: 114-261-323
+2025-09-02 20:52:07,023 - INFO -  * Detected change in '/Users/divyanshkachchhava/LockIn/app.py', reloading
+2025-09-02 20:52:07,074 - INFO -  * Restarting with stat
